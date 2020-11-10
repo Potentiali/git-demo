@@ -1,1 +1,14 @@
 rfkqe返回IE我发你口味我部分无风违反法规而违法违规房违法改为ssss啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+git clone 
+
+提交
+git add .
+git commit -m "zhushi"
+git push origin master
+
+拉取
+git pull origin master
+
+查看状态
+git status
